@@ -1,0 +1,9 @@
+---
+title: "Project1"
+output: html_document
+---
+
+```{r}
+data = read.csv("./data/top2018.csv")
+print(data)
+```
